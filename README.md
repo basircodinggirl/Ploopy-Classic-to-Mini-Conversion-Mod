@@ -17,3 +17,6 @@ A: See Question 2
 
 5. What's with the decision to model X?
 A: File an issue and I'll try my best to answer them
+
+6: Which file should I use?
+A: If you want to print the thing, use the 3mf files. I recommend printing the ball holder and the wrist rest seperately. If you want to edit the model directly, use the Autodesk file.
