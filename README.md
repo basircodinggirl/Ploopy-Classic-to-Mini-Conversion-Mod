@@ -1,4 +1,7 @@
 # Ploopy-Classic-to-Mini-Conversion-Mod
+
+![Ploopy Classic 2 Ploopy Mini Conversion Mod Banner Preview](PC2PMCM-banner.png)
+
 Ploopy Classic to Mini Conversion Mod: For when you have small hands but like the Classic over the Mini
 
 ## FAQ:
