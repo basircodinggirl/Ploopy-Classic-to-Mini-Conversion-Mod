@@ -10,7 +10,7 @@ Ploopy Classic to Mini Conversion Mod: For when you have small hands but like th
 
 2. Why is it modelled like this?
 
-> A: I don't know how to model besides the 30 day youtube lessons out there. The hole beneath the buttons is a feature, giving you a way to hang your palm on the mouse kinda. The cut-off ball holder is also a feature, giving you more access to the ball so you can manipulate it more.
+> A: I don't know how to model besides the 30 day youtube lessons out there. The hole beneath the buttons is a feature, giving you a way to hang your palm on the mouse kinda. The cut-off ball holder is also a feature, giving you more access to the ball so you can manipulate it more. This was also modelled for my personal use, so some Modelling Decisions :tm: were made with the idea that this will be a thing that I will only look at and understand.
 
 
 3. Why did you make this?
