@@ -25,7 +25,7 @@ Ploopy Classic to Mini Conversion Mod: For when you have small hands but like th
 
 5. What's with the decision to model X?
 
-> A: File an issue and I'll try my best to answer them
+> A: File an issue and I'll try my best to answer them. If your question is good I will add it to the README with reference to your issue.
 
 
 6. Which file should I use?
